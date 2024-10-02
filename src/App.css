@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.appContainer {
+  background-color: #f6fafc;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
